@@ -92,6 +92,7 @@ input.set-timer-components {
 #text-area {
   height: 70vh;
   font-size: 2em;
+  font-family: 'Fanwood Text', serif;
 }
 
 #debug-list {
